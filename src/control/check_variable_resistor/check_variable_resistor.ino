@@ -1,4 +1,4 @@
-int sensorPin = A2;
+int sensorPin = A0;
 
 void setup() {
 
