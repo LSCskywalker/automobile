@@ -1,1 +1,0 @@
-/home/yejin/ros2_ws/build/interfaces_pkg/rosidl_generator_py/interfaces_pkg/msg/__init__.py

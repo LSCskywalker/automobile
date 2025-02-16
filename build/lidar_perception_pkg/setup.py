@@ -1,1 +1,0 @@
-/home/yejin/ros2_ws/src/lidar_perception_pkg/setup.py

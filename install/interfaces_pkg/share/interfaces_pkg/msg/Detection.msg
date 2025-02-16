@@ -1,1 +1,0 @@
-/home/yejin/ros2_ws/src/interfaces_pkg/msg/Detection.msg
